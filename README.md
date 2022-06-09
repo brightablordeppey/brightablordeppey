@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @brightablordeppey
+- 👀 I’m interested in developing softwares and building sites
+- 🌱 I’m currently learning artificial intelligence with python
+- 💞️ I’m looking to collaborate on building softwares
+- 📫 reach me on brightablord33@gmail.com
